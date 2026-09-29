@@ -1,0 +1,2 @@
+print("Karnataka")
+print("Kerala")
