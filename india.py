@@ -1,2 +1,0 @@
-print("Karnataka")
-print("Kerala")
